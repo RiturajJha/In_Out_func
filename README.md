@@ -1,2 +1,3 @@
 # In_Out_func
-Simple input and output and functions intro
+Simple programs to do input and output 
+Simple program to introduce functions
